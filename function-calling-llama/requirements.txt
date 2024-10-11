@@ -1,0 +1,7 @@
+python-dotenv
+openai
+requests
+numpy
+faiss-cpu
+azure-ai-inference
+azure-core
