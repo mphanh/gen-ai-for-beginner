@@ -1,0 +1,8 @@
+An app that summarizes text in a readable format.
+Acceptabled inputs are: text, pdf, docx or url
+
+Commands to run on Windows:
+python -m venv venv
+venv/Scripts/activate.bat
+pip install -r requirements.txt
+python app.py

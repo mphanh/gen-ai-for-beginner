@@ -1,0 +1,6 @@
+python-dotenv
+openai
+azure-cosmos
+pandas
+numpy
+sklearn
